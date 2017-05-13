@@ -1,0 +1,9 @@
+D:\DataKu\Smester 3\PEMROG LANJUT\KodeBarcode\KodeBarcode\bin\Debug\KodeBarcode.exe.config
+D:\DataKu\Smester 3\PEMROG LANJUT\KodeBarcode\KodeBarcode\bin\Debug\KodeBarcode.exe
+D:\DataKu\Smester 3\PEMROG LANJUT\KodeBarcode\KodeBarcode\bin\Debug\KodeBarcode.pdb
+D:\DataKu\Smester 3\PEMROG LANJUT\KodeBarcode\KodeBarcode\obj\Debug\KodeBarcode.csprojResolveAssemblyReference.cache
+D:\DataKu\Smester 3\PEMROG LANJUT\KodeBarcode\KodeBarcode\obj\Debug\KodeBarcode.Form1.resources
+D:\DataKu\Smester 3\PEMROG LANJUT\KodeBarcode\KodeBarcode\obj\Debug\KodeBarcode.Properties.Resources.resources
+D:\DataKu\Smester 3\PEMROG LANJUT\KodeBarcode\KodeBarcode\obj\Debug\KodeBarcode.csproj.GenerateResource.Cache
+D:\DataKu\Smester 3\PEMROG LANJUT\KodeBarcode\KodeBarcode\obj\Debug\KodeBarcode.exe
+D:\DataKu\Smester 3\PEMROG LANJUT\KodeBarcode\KodeBarcode\obj\Debug\KodeBarcode.pdb
